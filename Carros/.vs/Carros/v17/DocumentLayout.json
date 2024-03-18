@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Carros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0176703-EF71-4565-A780-2F53DAA8B8AB}|Carros\\Carros.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\carros\\carros\\carros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0176703-EF71-4565-A780-2F53DAA8B8AB}|Carros\\Carros.csproj|solutionrelative:carros\\carros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0176703-EF71-4565-A780-2F53DAA8B8AB}|Carros\\Carros.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\carros\\carros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0176703-EF71-4565-A780-2F53DAA8B8AB}|Carros\\Carros.csproj|solutionrelative:carros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0176703-EF71-4565-A780-2F53DAA8B8AB}|Carros\\Carros.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\carros\\carros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0176703-EF71-4565-A780-2F53DAA8B8AB}|Carros\\Carros.csproj|solutionrelative:carros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carros.csproj",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Carros\\Carros\\Carros.csproj",
+              "RelativeDocumentMoniker": "Carros\\Carros.csproj",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Carros\\Carros\\Carros.csproj",
+              "RelativeToolTip": "Carros\\Carros.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T22:48:32.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Carros\\Carros\\appsettings.json",
+              "RelativeDocumentMoniker": "Carros\\appsettings.json",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Carros\\Carros\\appsettings.json",
+              "RelativeToolTip": "Carros\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T07:17:30.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Carros\\Carros\\Program.cs",
+              "RelativeDocumentMoniker": "Carros\\Program.cs",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Carros\\Carros\\Program.cs",
+              "RelativeToolTip": "Carros\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:17:29.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
