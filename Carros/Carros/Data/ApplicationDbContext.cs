@@ -12,5 +12,6 @@ namespace Carros.Data
         }
 
         public DbSet<Car> Cars { get; set; }
+        public DbSet<AplicationUser> users { get; set; }
     }
 }

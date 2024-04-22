@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\carrent\\carrent\\controllers\\rentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|solutionrelative:carrent\\controllers\\rentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\carrent\\carrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|solutionrelative:carrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\carrent\\carrent\\views\\rents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|solutionrelative:carrent\\views\\rents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\carrent\\carrent\\models\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|solutionrelative:carrent\\models\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\carrent\\carrent\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|solutionrelative:carrent\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\carrent\\carrent\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|solutionrelative:carrent\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\carrent\\carrent\\views\\rents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|solutionrelative:carrent\\views\\rents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\carrent\\carrent\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB186F92-BDF0-4DE3-A005-26F629F95F20}|CarRent\\CarRent.csproj|solutionrelative:carrent\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\appsettings.json",
+              "RelativeDocumentMoniker": "CarRent\\appsettings.json",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\appsettings.json",
+              "RelativeToolTip": "CarRent\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T19:39:46.257Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Views\\Rents\\Index.cshtml",
-              "RelativeDocumentMoniker": "CarRent\\Views\\Rents\\Index.cshtml",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Views\\Rents\\Index.cshtml",
-              "RelativeToolTip": "CarRent\\Views\\Rents\\Index.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T08:14:38.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rent.cs",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Models\\Rent.cs",
-              "RelativeDocumentMoniker": "CarRent\\Models\\Rent.cs",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Models\\Rent.cs",
-              "RelativeToolTip": "CarRent\\Models\\Rent.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:06:45.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "CarRent\\Models\\Client.cs",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Models\\Client.cs",
-              "RelativeToolTip": "CarRent\\Models\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:06:43.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "CarRent\\Models\\Car.cs",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Models\\Car.cs",
-              "RelativeToolTip": "CarRent\\Models\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T08:06:40.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Views\\Rents\\Create.cshtml",
-              "RelativeDocumentMoniker": "CarRent\\Views\\Rents\\Create.cshtml",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Views\\Rents\\Create.cshtml",
-              "RelativeToolTip": "CarRent\\Views\\Rents\\Create.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T08:04:26.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RentController.cs",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Controllers\\RentController.cs",
-              "RelativeDocumentMoniker": "CarRent\\Controllers\\RentController.cs",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Controllers\\RentController.cs",
-              "RelativeToolTip": "CarRent\\Controllers\\RentController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAewDgAAAA4AAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Program.cs",
+              "RelativeDocumentMoniker": "CarRent\\Program.cs",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\CarRent\\CarRent\\Program.cs",
+              "RelativeToolTip": "CarRent\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T07:44:02.806Z",
+              "WhenOpened": "2024-04-22T19:40:14.966Z",
               "EditorCaption": ""
             }
           ]
