@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\trabalho-api\\trabalho api\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Migrations\\20240423003549_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Trabalho API\\Migrations\\20240423003549_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\trabalho-api\\trabalho api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\trabalho-api\\trabalho api\\trabalho api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\trabalho api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\trabalho-api\\trabalho api\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\trabalho-api\\trabalho api\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\trabalho-api\\trabalho api\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\trabalho-api\\trabalho api\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\trabalho-api\\trabalho api\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|solutionrelative:trabalho api\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E63F0858-7349-4DF9-9A44-7A5350C1ABB8}|Trabalho API\\Trabalho API.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\trabalho-api\\trabalho api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,92 +35,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Cliente\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Delete.cshtml",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Cliente\\Delete.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T00:07:19.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Cliente\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Edit.cshtml",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Cliente\\Edit.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T00:06:31.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Cliente\\Details.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Details.cshtml",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Cliente\\Details.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T00:05:37.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T00:00:54.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Cliente\\Index.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Index.cshtml",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Cliente\\Index.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Index.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T00:00:46.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Cliente\\Create.cshtml",
-              "RelativeDocumentMoniker": "Trabalho API\\Views\\Cliente\\Create.cshtml",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Cliente\\Create.cshtml",
-              "RelativeToolTip": "Trabalho API\\Views\\Cliente\\Create.cshtml",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-22T23:59:25.495Z",
+              "Title": "20240423003549_initial2.cs",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Migrations\\20240423003549_initial2.cs",
+              "RelativeDocumentMoniker": "Trabalho API\\Migrations\\20240423003549_initial2.cs",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Migrations\\20240423003549_initial2.cs",
+              "RelativeToolTip": "Trabalho API\\Migrations\\20240423003549_initial2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:35:49.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Trabalho API\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Trabalho API\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAwwHAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T23:55:28.514Z",
+              "Title": "Trabalho API",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Trabalho API.csproj",
+              "RelativeDocumentMoniker": "Trabalho API\\Trabalho API.csproj",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Trabalho API.csproj",
+              "RelativeToolTip": "Trabalho API\\Trabalho API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T00:35:12.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Trabalho API\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Trabalho API\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T00:35:03.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Trabalho API\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Trabalho-Api\\Trabalho API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Trabalho API\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T00:33:11.838Z",
               "EditorCaption": ""
             }
           ]

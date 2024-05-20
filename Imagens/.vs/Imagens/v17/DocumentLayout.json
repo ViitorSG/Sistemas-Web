@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Imagens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A846866-8C5B-4A1D-AAE8-DBFEB6A358D1}|Imagens\\Imagens.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\imagens\\imagens\\views\\produto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A846866-8C5B-4A1D-AAE8-DBFEB6A358D1}|Imagens\\Imagens.csproj|solutionrelative:imagens\\views\\produto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A846866-8C5B-4A1D-AAE8-DBFEB6A358D1}|Imagens\\Imagens.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\imagens\\imagens\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A846866-8C5B-4A1D-AAE8-DBFEB6A358D1}|Imagens\\Imagens.csproj|solutionrelative:imagens\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A846866-8C5B-4A1D-AAE8-DBFEB6A358D1}|Imagens\\Imagens.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\imagens\\imagens\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A846866-8C5B-4A1D-AAE8-DBFEB6A358D1}|Imagens\\Imagens.csproj|solutionrelative:imagens\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Imagens\\Imagens\\Views\\Produto\\Details.cshtml",
+              "RelativeDocumentMoniker": "Imagens\\Views\\Produto\\Details.cshtml",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Imagens\\Imagens\\Views\\Produto\\Details.cshtml",
+              "RelativeToolTip": "Imagens\\Views\\Produto\\Details.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:48:53.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Imagens\\Imagens\\Views\\Produto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Imagens\\Views\\Produto\\Create.cshtml",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Imagens\\Imagens\\Views\\Produto\\Create.cshtml",
+              "RelativeToolTip": "Imagens\\Views\\Produto\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T05:18:51.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Imagens\\Imagens\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Imagens\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\Imagens\\Imagens\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "Imagens\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T05:15:06.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

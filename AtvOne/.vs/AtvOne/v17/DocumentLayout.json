@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\atvone\\atvone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|solutionrelative:atvone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\atvone\\atvone\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|solutionrelative:atvone\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\atvone\\atvone\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|solutionrelative:atvone\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\atvone\\atvone\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|solutionrelative:atvone\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\atvone\\atvone\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|solutionrelative:atvone\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\atvone\\atvone\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|solutionrelative:atvone\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|c:\\develop\\faculdade\\5 e 6 termo\\sistemas web\\atvone\\atvone\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0CC2788-555B-49F8-9D3E-AE754FF5DB86}|AtvOne\\AtvOne.csproj|solutionrelative:atvone\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "AtvOne\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "AtvOne\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:54:20.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AtvOne\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AtvOne\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:54:08.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AtvOne\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "AtvOne\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:53:45.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "AtvOne\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "AtvOne\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T22:48:36.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AtvOne\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "AtvOne\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T19:12:52.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "AtvOne\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "AtvOne\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T05:18:46.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AtvOne\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\develop\\faculdade\\5 e 6 termo\\Sistemas Web\\AtvOne\\AtvOne\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AtvOne\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAuwHwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:14:00.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
