@@ -1,0 +1,41 @@
+﻿@model List<WebAPI_Swagger.Model.Fornecedor>
+
+@{
+    ViewData["Title"] = "Lista de Fornecedores";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a class="btn btn-success" asp-action="Create">Adicionar Fornecedor</a>
+</p>
+
+<table class="table table-striped table-hover mt-3">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Contato</th>
+            <th>ID_Produto</th>
+            <th>Nome_Produto</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var fornecedor in Model)
+        {
+            <tr>
+                <td>@fornecedor.Id</td>
+                <td>@fornecedor.Nome</td>
+                <td>@fornecedor.Contato</td>
+                <td>@fornecedor.ID_Produto</td>
+                <td>@fornecedor.Nome_Produto</td>
+                <td>
+                    <a class="btn btn-outline-primary btn-sm" asp-action="Edit" asp-route-id="@fornecedor.Id">Editar</a>
+                    <a class="btn btn-outline-info btn-sm" asp-action="Details" asp-route-id="@fornecedor.Id">Detalhes</a>
+                    <a class="btn btn-outline-danger btn-sm" asp-action="Delete" asp-route-id="@fornecedor.Id">Apagar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
